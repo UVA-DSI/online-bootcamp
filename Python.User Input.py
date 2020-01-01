@@ -6,13 +6,7 @@ This is a temporary script file.
 """
 
 
-from datetime import datetime
 
-
-time = datetime.now()
-print(time)
-
-
-
-
-
+#1 Define Input Variable
+word = input("Please Enter a word: ")
+print(word)

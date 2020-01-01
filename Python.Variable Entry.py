@@ -6,8 +6,18 @@ This is a temporary script file.
 """
 
 
-import time
 
-#1 Define Input Variable
-word = input("Please Enter a word: ")
-print(word)
+
+
+#1 Check if Word
+while True:
+    word = input("Enter a word: ")
+    if word.isalpha():
+        print(word)
+        break
+       
+        
+
+    
+    
+    
