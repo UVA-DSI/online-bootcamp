@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577993736369.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "337826766",
+    "id" : "55F03E48",
+    "lastKnownWriteTime" : 1577993850,
+    "last_content_update" : 1577993850148,
+    "path" : "~/UVA Technical Bootcamp/Module 4/R/stopwatch/stopwatch.R",
+    "project_path" : "stopwatch.R",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

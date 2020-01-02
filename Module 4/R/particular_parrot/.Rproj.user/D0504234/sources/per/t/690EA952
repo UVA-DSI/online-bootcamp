@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577994399741.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "505249882",
+    "id" : "690EA952",
+    "lastKnownWriteTime" : 1577995959,
+    "last_content_update" : 1577995959274,
+    "path" : "~/UVA Technical Bootcamp/Module 4/R/particular_parrot/particular_parrot.R",
+    "project_path" : "particular_parrot.R",
+    "properties" : {
+        "cursorPosition" : "13,1",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

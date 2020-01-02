@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577996188220.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3192307285",
+    "id" : "2BB049AB",
+    "lastKnownWriteTime" : 1577996878,
+    "last_content_update" : 1577996878147,
+    "path" : "~/UVA Technical Bootcamp/Module 4/R/make_list/make_list.R",
+    "project_path" : "make_list.R",
+    "properties" : {
+        "cursorPosition" : "11,9",
+        "scrollLine" : "4",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
