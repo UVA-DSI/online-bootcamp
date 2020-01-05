@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578163395656.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "85ADF72",
+    "lastKnownWriteTime" : 1578186714,
+    "last_content_update" : 1578186714318,
+    "path" : "~/UVA Technical Bootcamp/Module 5/uk_constituency_hexbin/uk_constituency_hexbin.R",
+    "project_path" : "uk_constituency_hexbin.R",
+    "properties" : {
+        "cursorPosition" : "44,0",
+        "scrollLine" : "33",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
